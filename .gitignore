@@ -1,0 +1,27 @@
+/target
+/build
+/out
+atlassian-ide-plugin.xml
+
+#Idea
+/.idea
+/.gradle
+*.iml
+*.ipr
+*.iws
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#Eclipse
+.classpath
+.project
+.settings
